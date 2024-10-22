@@ -1,4 +1,4 @@
-#Coffee Sale Analysis#
+#Coffee Sale Analysis
 
 This project involves analyzing coffee sales data using Excel. The analysis focuses on identifying sales trends, key metrics, and insights to help understand sales performance. Various Excel formulas and functions were used to process and visualize the data.
 
